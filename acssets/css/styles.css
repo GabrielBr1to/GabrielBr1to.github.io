@@ -1,0 +1,10 @@
+* {
+    background-color: #484848;
+}
+h1{
+    color: yellow;
+}
+
+hi:hover {
+    color: purple;
+}
