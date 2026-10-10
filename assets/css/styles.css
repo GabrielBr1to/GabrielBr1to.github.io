@@ -1,14 +1,31 @@
-* {
-    background-color: #484848;
+body{
+    background-color: #1E90FF;
 }
-h1{
-    color: yellow;
+.home{
+    
+}
+.navbar{
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    color: #FF7F50;
+    
 }
 
-h1:hover {
-    color: purple;
-}
-
-body {
+.titulo{
+    display: flex;
     align-items: center;
+}
+
+.itens {
+    display: flex;
+}
+
+.main {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: #FF7F50;
+   border-radius: 10px;
 }
